@@ -27,9 +27,6 @@ const About =()=> {
                 <Col md={3}>
                 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi quos quis laboriosam velit. Necessitatibus provident alias dolores quia. Dolor ullam dolores voluptatum nobis officia quo perferendis quibusdam culpa possimus nam.
                 </Col>
-                <Col md={3}>
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi quos quis laboriosam velit. Necessitatibus provident alias dolores quia. Dolor ullam dolores voluptatum nobis officia quo perferendis quibusdam culpa possimus nam.
-                </Col>
              </Row>
         </Container>
         </>
