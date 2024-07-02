@@ -10,12 +10,9 @@ const Contact = () => {
       <Container style={{ marginTop: "50px" }}>
         <Row>
           <Col>
-            <h1>TechinfoYT pizza Shop</h1>
+            <h1> Pizza Shop</h1>
             <p>
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ullam
-              unde modi pariatur ipsa consectetur, quam dolor maxime? Assumenda
-              distinctio rem ad debitis vitae sint consequuntur, tempora nulla
-              quisquam quis non?
+              Welocome every one to our pizza shop.
             </p>
             <Table striped bordered hover className="text-center">
               <thead>
